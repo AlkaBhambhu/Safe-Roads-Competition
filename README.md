@@ -1,4 +1,4 @@
-# Which Factors Drive the occurence of Collisons in Toronto?
+# Which Factors Drive the occurence of Collisons in Toronto? <img align="right" alt="Coding" width="180" src="https://i.giphy.com/media/VhWFMl9M6zKpqB2dkc/giphy.webp">
  > Group Project for [SAS - 2022 Safe Roads Competition](https://www.sas.com/en_ca/events/2021/q4/safe-roads-competition.html) in partnership with Geotab Inc. and the Toronto Police Services.
  
  > Access the Presentation 👉🏼 [Here](https://github.com/AlkaBhambhu/Safe-Roads-Competition/blob/124b69d75fc6c9ed745e8f22cde23cef08724a5f/2022%20Safe%20Roads%20Competition%20Final%20Version.pdf)
